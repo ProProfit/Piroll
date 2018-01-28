@@ -1,4 +1,4 @@
-<h1>OptimizedHTML - Start HTML Template</h1>
+<h1>Piroll PSD to HTML</h1>
 
 <p>
 	<img src="https://raw.githubusercontent.com/agragregra/optimizedhtml-start-template/master/app/img/preview.jpg" alt="Start HTML Template">
