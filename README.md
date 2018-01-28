@@ -1,8 +1,7 @@
 <h1>Piroll PSD to HTML</h1>
 
 <p>
-	![Image alt](https://github.com/ProProfit/Piroll/blob/master/app/img/Piroll.gif)
-	<img src="https://raw.githubusercontent.com/agragregra/optimizedhtml-start-template/master/app/img/preview.jpg" alt="Start HTML Template">
+	<img src="https://raw.githubusercontent.com/ProProfit/Piroll/master/app/img/Piroll.gif" alt="Start HTML Template">
 </p>
 
 <p>Author: <a href="http://webdesign-master.ru" target="_blank">WebDesign Master</a> | <a href="http://webdesign-master.ru/blog/tools/2016-08-19-optimizedhtml.html" target="_blank">Manual in Russian</a></p>
