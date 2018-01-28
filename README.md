@@ -1,6 +1,7 @@
 <h1>Piroll PSD to HTML</h1>
 
 <p>
+	![Image alt](https://github.com/ProProfit/Piroll/blob/master/app/img/Piroll.gif)
 	<img src="https://raw.githubusercontent.com/agragregra/optimizedhtml-start-template/master/app/img/preview.jpg" alt="Start HTML Template">
 </p>
 
